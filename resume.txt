@@ -1,0 +1,67 @@
+Front-End and Web Development| IBM via Coursera                                                                          Verify Credential
+Certifications
+faster load times.
+•
+Collaborated to translate UI/UX designs into CMS-driven interfaces, optimizing Core Web Vitals using Lighthouse for
+management.
+•
+Integrated MongoDB and PostgreSQL databases, leveraging Drizzle ORM for type-safe queries and efficient schema
+Query.
+•
+Managed complex client-side state with Zustand and optimized server-state data fetching and caching using TanStack
+components.
+•
+Built responsive, production-grade web applications using Next.js 16, TypeScript, Tailwind CSS, and shadcn/ui
+Frontend Developer
+Revnix Software House                                                            Apr 2025 – Present
+Experience
+rendering.
+•
+Integrated Stripe APIs for secure checkouts and connected front-end components to Nextly CMS for dynamic content
+experiences.
+•
+Engineered responsive e-commerce user interfaces with Next.js 15 and Tailwind CSS, focusing on seamless cross-device
+The Backyard (Company Project)| Next.js 15, Tailwind CSS, Nextly CMS, Stripe                                                 2025
+crawler readiness.
+•
+Implemented comprehensive JSON-LD structured data directly into the front-end to optimize traditional SEO and AI
+CMS framework.
+•
+Developed high-performance front-end architectures using Next.js 16 and React 19, seamlessly integrating the Nextly
+4Rivers Equipment (Company Project)| Next.js 16, TypeScript, Nextly CMS, Drizzle                                           2025
+ORM.
+•
+Implemented secure user authentication with NextAuth and structured complex financial data models using Drizzle
+UI/UX.
+•
+Engineered a minimal and fast expense tracking web application with a focus on privacy and a modern, responsive
+Expense Tracker| Next.js 16, Tailwind CSS v4, NextAuth, Drizzle ORM, Neon Postgres                                            2026
+•
+Integrated Llama 3.3 AI via LangChain for automated clinical notes generation and drug interaction checks.
+•
+Developed a clinic management system with isolated role-based portals and secure NextAuth authentication.
+MediTrack (Clinic Management System)| Next.js 16, PostgreSQL, Llama 3.3 AI                                                 2026
+Projects
+Fundamentals, Performance Optimization
+Skills:  Web Development, Role-Based Access Control (RBAC), CRUD Operations, Responsive UI Design, UI/UX
+Tools & Platforms:  Git/GitHub, Postman, VS Code, shadcn/ui, LangChain
+State & Data Management:  Zustand, TanStack Query (React Query)
+Backend & Databases:  MongoDB, PostgreSQL, Mongoose, Drizzle ORM, REST APIs, API Integration
+Express.js
+Languages & Frameworks:  JavaScript (ES6+), TypeScript, React.js, Next.js 16, HTML5/CSS3, Tailwind CSS, Node.js,
+Technical Skills
+Software Engineering, Version Control with Git & GitHub
+Programming, Database Systems (PostgreSQL & MongoDB), RESTful API Design, Object-Oriented Programming (OOP),
+Relevant Coursework:  Advanced Web Development, Frontend Engineering with React & Next.js, TypeScript
+Coursework
+Bachelor of Science in Software Engineering
+University of Haripur                                                                   2020 – 2024
+Education
+collaborative team environments.
+deliver exceptional user experiences.  Committed to continuous learning, writing maintainable code, and contributing to
+impactful projects.  Passionate about building clean, scalable applications using React, Next.js, and modern databases that
+Dedicated software engineer with expertise in full-stack development, seeking to leverage web and modern technologies to drive
+Objective
+ +92 330 5311932|ï linkedin.com/in/hamzaniaz865                                           |# hamzaniaz865@gmail.com
+Hamza Niaz
+----------------Page (0) Break----------------
