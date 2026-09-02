@@ -105,7 +105,7 @@ export default function Footer() {
               <Mail className="w-3.5 h-3.5" />
               <span className="text-[13px] font-medium tracking-wide">Weekly Insights</span>
             </div>
-            <h2 className="text-[28px] sm:text-3xl font-bold text-gray-900 dark:text-white tracking-tight whitespace-nowrap">
+            <h2 className="text-[28px] sm:text-3xl font-bold text-gray-900 dark:text-white tracking-tight">
               Master Full-Stack Engineering
             </h2>
             <p className="text-[15px] sm:text-[16px] text-gray-600 dark:text-gray-400 leading-relaxed">
@@ -118,7 +118,7 @@ export default function Footer() {
               </div>
             ) : (
             <form 
-              className="flex items-center w-full mt-2 bg-black/5 dark:bg-white/5 border border-border rounded-full p-1.5 focus-within:border-black/20 dark:focus-within:border-white/20 transition-all" 
+              className="flex flex-col sm:flex-row sm:items-center w-full mt-2 bg-black/5 dark:bg-white/5 border border-border rounded-2xl sm:rounded-full p-1.5 focus-within:border-black/20 dark:focus-within:border-white/20 transition-all gap-1.5 sm:gap-0" 
               onSubmit={handleSubscribe}
             >
               <input type="hidden" name="access_key" value="691ade5f-001d-4f25-8f89-209be382af7f" />
@@ -127,13 +127,13 @@ export default function Footer() {
                 name="email"
                 type="email" 
                 placeholder="Enter your email" 
-                className="flex-1 bg-transparent pl-4 pr-2 py-[10px] focus:outline-none text-[15px] text-gray-900 dark:text-white placeholder:text-gray-500"
+                className="flex-1 bg-transparent pl-4 pr-2 py-[10px] focus:outline-none text-[15px] text-gray-900 dark:text-white placeholder:text-gray-500 min-w-0"
                 required
               />
               <button 
                 type="submit" 
                 disabled={isSubmitting}
-                className="shrink-0 inline-flex items-center justify-center whitespace-nowrap font-medium bg-primary text-white rounded-full px-6 py-[10px] text-base hover:bg-primary/90 transition-colors disabled:opacity-70 disabled:cursor-not-allowed"
+                className="inline-flex items-center justify-center whitespace-nowrap font-medium bg-primary text-white rounded-full px-6 py-[10px] text-base hover:bg-primary/90 transition-colors disabled:opacity-70 disabled:cursor-not-allowed w-full sm:w-auto sm:shrink-0"
               >
                 {isSubmitting ? "Subscribing..." : (
                   <>Get Updates <ArrowRight className="w-4 h-4 ml-1.5" strokeWidth={2} /></>
