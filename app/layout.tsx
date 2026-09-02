@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Hamza Niaz | Next.js Full Stack Developer",
     description: "Portfolio of Hamza Niaz, a Next.js Full Stack Developer specializing in scalable web applications.",
-    url: "https://hamzaniaz.com",
+    url: "https://buildwithhamza.me",
     siteName: "Hamza Niaz Portfolio",
     locale: "en_US",
     type: "website",
