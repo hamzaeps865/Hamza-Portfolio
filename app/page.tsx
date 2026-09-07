@@ -3,6 +3,7 @@ import AboutSection from "@/components/AboutSection";
 import ExperienceSection from "@/components/ExperienceSection";
 import TechStackSection from "@/components/TechStackSection";
 import ServicesSection from "@/components/ServicesSection";
+import PricingSection from "@/components/PricingSection";
 import ProcessSection from "@/components/ProcessSection";
 import FeaturedProjectsSection from "@/components/FeaturedProjectsSection";
 import CtaSection from "@/components/CtaSection";
@@ -20,6 +21,8 @@ export default function Home() {
       <TechStackSection />
       <Divider />
       <AboutSection />
+      <Divider />
+      <PricingSection />
       <Divider />
       <ExperienceSection />
       <Divider />

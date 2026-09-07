@@ -69,7 +69,7 @@ export default function AboutSection() {
                 <div className="w-10 h-10 rounded-xl bg-black/5 dark:bg-white/5 flex items-center justify-center mb-4 border border-border">
                   <GraduationCap className="w-5 h-5 text-primary" />
                 </div>
-                <h3 className="text-gray-900 dark:text-white font-bold text-lg mb-1">BS Software Eng.</h3>
+                <h3 className="text-gray-900 dark:text-white font-bold text-lg mb-1">BS Software Engineering</h3>
                 <p className="text-primary text-sm font-medium mb-2">University of Haripur</p>
                 <p className="text-xs text-gray-500 uppercase tracking-widest font-semibold">2020 - 2024</p>
               </div>
