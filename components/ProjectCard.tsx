@@ -24,6 +24,7 @@ export default function ProjectCard({ category, year, title, description, imageU
               src={imageUrl} 
               alt={title}
               fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               className="object-cover object-left-top group-hover:scale-[1.03] transition-transform duration-700 ease-out" 
             />
           </div>

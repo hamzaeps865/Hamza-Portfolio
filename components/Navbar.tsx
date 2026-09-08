@@ -40,7 +40,7 @@ export default function Navbar() {
           {isScrolled ? (
             <Link href="/" className="flex items-center gap-3 group">
               <div className="relative w-10 h-10 rounded-full bg-primary overflow-hidden border border-white/10 flex items-center justify-center shrink-0">
-                 <Image src="/profile2.jpg" alt="Hamza Niaz" fill className="object-cover object-top" />
+                 <Image src="/profile2.jpg" alt="Hamza Niaz" fill sizes="40px" priority className="object-cover object-top" />
               </div>
               <div className="hidden sm:block">
                 <div className="text-sm font-bold text-gray-900 dark:text-white leading-tight mb-0.5">Hamza Niaz</div>

@@ -1,13 +1,16 @@
 import HeroSection from "@/components/HeroSection";
-import AboutSection from "@/components/AboutSection";
-import ExperienceSection from "@/components/ExperienceSection";
-import TechStackSection from "@/components/TechStackSection";
-import ServicesSection from "@/components/ServicesSection";
-import PricingSection from "@/components/PricingSection";
-import ProcessSection from "@/components/ProcessSection";
-import FeaturedProjectsSection from "@/components/FeaturedProjectsSection";
-import CtaSection from "@/components/CtaSection";
-import ContactSection from "@/components/ContactSection";
+import dynamic from "next/dynamic";
+
+const AboutSection = dynamic(() => import("@/components/AboutSection"));
+const ExperienceSection = dynamic(() => import("@/components/ExperienceSection"));
+const TechStackSection = dynamic(() => import("@/components/TechStackSection"));
+const ServicesSection = dynamic(() => import("@/components/ServicesSection"));
+const PricingSection = dynamic(() => import("@/components/PricingSection"));
+const ProcessSection = dynamic(() => import("@/components/ProcessSection"));
+const FeaturedProjectsSection = dynamic(() => import("@/components/FeaturedProjectsSection"));
+const CtaSection = dynamic(() => import("@/components/CtaSection"));
+const ContactSection = dynamic(() => import("@/components/ContactSection"));
+const ReviewSection = dynamic(() => import("@/components/ReviewSection"));
 
 const Divider = () => (
   <div className="w-full h-px bg-white/5"></div>
@@ -35,6 +38,8 @@ export default function Home() {
       <CtaSection />
       <Divider />
       <ContactSection />
+      <Divider />
+      <ReviewSection />
     </>
   );
 }

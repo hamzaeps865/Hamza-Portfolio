@@ -23,6 +23,7 @@ export default function AboutSection() {
                     src="/profile2.jpg" 
                     alt="Hamza Niaz" 
                     fill 
+                    sizes="(max-width: 768px) 100vw, 50vw"
                     className="object-cover object-top hover:scale-105 transition-transform duration-700" 
                     priority
                   />

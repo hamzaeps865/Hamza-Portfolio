@@ -49,7 +49,7 @@ export default function Footer() {
             <Link href="#contact" className="group block relative overflow-hidden p-5 rounded-2xl border border-[color-mix(in_oklab,var(--color-white)_5%,transparent)] bg-[color-mix(in_oklab,var(--color-white)_5%,transparent)] hover:border-primary transition-all duration-300 shadow-xl">
               <div className="flex items-center gap-4 mb-5">
                 <div className="relative w-12 h-12 rounded-full bg-primary/20 flex items-center justify-center shrink-0 border border-primary/30 overflow-hidden">
-                  <Image src="/profile2.jpg" alt="Hamza Niaz" fill className="object-cover object-top" />
+                  <Image src="/profile2.jpg" alt="Hamza Niaz" fill sizes="64px" className="object-cover object-top" />
                   {/* Optional green online dot if using an image */}
                   <div className="absolute bottom-0 right-0 w-3 h-3 bg-primary rounded-full border-2 border-[#131616] z-10"></div>
                 </div>
